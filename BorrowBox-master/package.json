@@ -1,0 +1,40 @@
+{
+	"name": "borrowbox-system",
+	"private": true,
+	"version": "1.0.0",
+	"type": "module",
+	"scripts": {
+		"dev": "concurrently \"npm run server\" \"npm run client\"",
+		"client": "vite",
+		"server": "nodemon server/index.js",
+		"build": "vite build",
+		"start": "node server/index.js",
+		"preview": "vite preview"
+	},
+	"dependencies": {
+		"axios": "^1.6.0",
+		"bcryptjs": "^2.4.3",
+		"bootstrap": "^5.3.2",
+		"cors": "^2.8.5",
+		"dotenv": "^16.3.1",
+		"express": "^4.21.2",
+		"jsonwebtoken": "^9.0.2",
+		"lucide-react": "^0.344.0",
+		"mongoose": "^8.19.4",
+		"react": "^18.3.1",
+		"react-dom": "^18.3.1",
+		"react-router-dom": "^6.8.0",
+		"socket.io": "^4.8.1",
+		"socket.io-client": "^4.8.1",
+		"ws": "^8.18.3"
+	},
+	"devDependencies": {
+		"@vitejs/plugin-react": "^4.3.1",
+		"autoprefixer": "^10.4.18",
+		"concurrently": "^8.2.2",
+		"nodemon": "^3.0.1",
+		"postcss": "^8.4.35",
+		"tailwindcss": "^3.4.1",
+		"vite": "^5.4.2"
+	}
+}
