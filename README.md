@@ -1,5 +1,14 @@
 # 📦 BorrowBox – Item, Guidance & Chat Request System
 
+![React](https://img.shields.io/badge/React-18+-blue.svg)
+![Node.js](https://img.shields.io/badge/Node.js-18+-green.svg)
+![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-brightgreen.svg)
+![Socket.io](https://img.shields.io/badge/Socket.io-Realtime-black.svg)
+![JWT](https://img.shields.io/badge/JWT-Auth-orange.svg)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Status](https://img.shields.io/badge/Status-Live-success.svg)
+
+
 A full-stack community platform where users can request items, seek guidance, chat in real time, and manage borrow interactions. BorrowBox connects people who need something with those who can provide it — quickly and conveniently.
 
 ---
@@ -277,6 +286,67 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 For support, email [support@borrowbox.com](mailto:support@borrowbox.com) or create an issue in the repository.
+
+## 🚀 Live Demo
+
+👉 **[Try BorrowBox Now](https://borrowbox-plum.vercel.app/)**  
+
+---
+
+## 📸 Screenshots
+
+### Signup Page
+
+<img width="924" height="514" alt="image" src="https://github.com/user-attachments/assets/01483ded-64e1-402b-b04b-bc8317ab05f7" />
+
+
+
+### Login Page
+
+<img width="935" height="564" alt="image" src="https://github.com/user-attachments/assets/0c81ca3f-6f14-44e8-9ec4-241915743ab3" />
+
+
+
+### Request Management (Home Page-1 -- Browse Requests)
+
+<img width="929" height="570" alt="image" src="https://github.com/user-attachments/assets/db915748-be71-49e3-bda2-416fcca0d127" />
+
+
+
+### Request Management (Home Page-2 -- Add New Request)
+
+<img width="945" height="560" alt="image" src="https://github.com/user-attachments/assets/8ca55ed8-c356-49e3-92c7-9bdf9adb9467" />
+
+
+
+### Request Management (Create request form)
+
+<img width="913" height="555" alt="image" src="https://github.com/user-attachments/assets/a49d592d-dc56-4886-b7d1-e2721537bc3a" />
+
+
+
+### Request Page (My requests)
+
+<img width="976" height="444" alt="image" src="https://github.com/user-attachments/assets/105260b9-01aa-464f-8e97-ac2528f75402" />
+
+
+
+### Rating User
+
+<img width="941" height="568" alt="image" src="https://github.com/user-attachments/assets/448b7673-ef02-4806-a7c8-1659db6363df" />
+
+
+
+### Dashboard (Profile & Ratings)
+
+<img width="911" height="555" alt="image" src="https://github.com/user-attachments/assets/ba20975a-28a8-4692-b9ff-1aa6a51f5d43" />
+
+
+
+### Real-Time Chat
+
+<img width="975" height="492" alt="image" src="https://github.com/user-attachments/assets/23ee4cd4-50bd-464b-9379-a11c167aa7c6" />
+
 
 ---
 
